@@ -1,4 +1,4 @@
-# How-to-Certify-Machine-Learning-Based-Safety-critical-Systems:A-Systematic-Literature-Review
+# How-to-Certify-Machine-Learning-Based-Safety-critical-Systems: A-Systematic-Literature-Review
 Replication Package of our paper "How to Certify Machine Learning Based Safety-critical Systems? A Systematic Literature Review"
  
 A pre-print version can be found at https://arxiv.org/abs/2107.12045
